@@ -1,3 +1,3 @@
 ## Databricks Certified: GenAI Engineer Associate
 
-![course_thumbnail](./Assets/course_thumbnail_new.png)
+![course_thumbnail](./Assets/dbgenai_course_thumbnail.png)
